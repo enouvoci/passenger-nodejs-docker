@@ -1,3 +1,3 @@
-# Docker base images Node.js web apps
+# Docker base image for Node.js web apps
 
 https://github.com/phusion/passenger-docker
